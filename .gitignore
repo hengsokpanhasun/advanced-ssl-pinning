@@ -1,0 +1,16 @@
+# build output
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+
+# local logs
+*.log
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
